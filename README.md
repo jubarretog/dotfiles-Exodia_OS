@@ -21,9 +21,8 @@ These are my personalized dotfiles for the Arch Linux based distribution [**Exod
 ![image](https://github.com/jubarretog/Exodia_OS-dotfiles/assets/64144710/e9f0df86-24c0-493a-a000-065de60ccde2)
 
 #### Terminal
-![image](https://github.com/jubarretog/Exodia_OS-dotfiles/assets/64144710/c7e0e1c6-c79e-4ddb-a0b4-090a0795b2e3)
-![image](https://github.com/jubarretog/Exodia_OS-dotfiles/assets/64144710/33a40167-0605-4fda-90c7-851b99e59358)
-
+![image](https://github.com/jubarretog/dotfiles-Exodia_OS/assets/64144710/bd3eeeb2-9315-4b20-a6c1-0e5559fa4764)
+![image](https://github.com/jubarretog/dotfiles-Exodia_OS/assets/64144710/82cd8c9a-38de-46be-8bfc-46cebb424235)
 
 #### Widgets
 ![image](https://github.com/jubarretog/Exodia_OS-dotfiles/assets/64144710/5ab1a797-1f17-4a71-aa60-6a673312bb60)
