@@ -11,9 +11,14 @@ These are my personalized dotfiles for the Arch Linux based distribution [**Exod
   * Configured at ___~/.config/bspwm/themes/Emilia/modules___ and ___~/.config/bspwm/themes/Emilia/scripts___
 * Personalized Terminal
   * Reajusted _Alacritty_ at ___~/.config.bspwm/alacritty___ and ___~/.config/bspwm/themes/Emilia/theme.conf___
-  * Configured zsh using _powerlevel10k_ at  ___~/.zshrc___ and  ___~/.p10k.zsh___
+  * Configured _zsh_ using _powerlevel10k_ at  ___~/.zshrc___ and  ___~/.p10k.zsh___
 * Personalized log screen
-  * Reconfigured sddm _Astronaut_ theme at ___/usr/share/sddm/themes/astronaut___
+  * Reconfigured _sddm_ Astronaut theme at ___/usr/share/sddm/themes/astronaut___
+* Add keybindings _(Note: Super refers to windows key)_
+  * Configured at ___.config/bspwm/keybinding/sxhkdrc___
+  * Open _bluetooth manager_ with ___super + b___
+  * Open _spotify_ instead of _mpd_ with ___super + m___
+  * Change music control to work with spotify
 
 ## Showcase
 
