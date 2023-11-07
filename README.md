@@ -1,4 +1,4 @@
-# dotfiles-Exodia OS
+# Exodia OS dotfiles
 These are my personalized dotfiles for the Arch Linux based distribution [**Exodia OS**](https://github.com/Exodia-OS)
 
 ## Features
